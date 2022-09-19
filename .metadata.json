@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "difNLR",
+    "oncran": true
+  }
+]
