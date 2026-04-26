@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "deltaPlotR"]
+	path = deltaPlotR
+	url = https://github.com/cran/deltaPlotR
 [submodule "difNLR"]
 	path = difNLR
 	url = https://github.com/adelahladka/difnlr
