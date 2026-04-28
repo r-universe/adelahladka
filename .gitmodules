@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "deltaPlotR"]
 	path = deltaPlotR
-	url = https://github.com/cran/deltaPlotR
+	url = https://github.com/adelahladka/deltaplotr
 [submodule "difNLR"]
 	path = difNLR
 	url = https://github.com/adelahladka/difnlr
